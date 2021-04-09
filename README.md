@@ -1,6 +1,6 @@
 # YouTube Clone
 
-developed with 
+developed with :heartpulse: &
 - HTML
 - CSS
 - Normalize.css
