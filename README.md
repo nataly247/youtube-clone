@@ -1,7 +1,9 @@
-# YouTube Clone
+# YouTube Clone 
 
-developed with :heartpulse: &
+:computer: developed with :heartpulse: &
 - HTML
 - CSS
 - Normalize.css
 - SVG Sprites
+
+:wink:
